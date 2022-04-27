@@ -27,4 +27,4 @@ Date: 2022-04-27
 
 ## Consequences
 결과
-No human operator infrastructure changes will be allowed. We'll need to invest in specialized tools and a language to treat infrastructure changes as code. Making changes will take longer than if we were to use a console or CLI.
+No human operator infrastructure changes will be allowed. We'll need to invest in specialized tools and a language to treat infrastructure changes as code. Making changes will take longer than if we were to use a console or CLI. 테스트 분기
